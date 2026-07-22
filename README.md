@@ -1,4 +1,4 @@
-# README: BioCognitive-AI Framework v4
+# README: BioCognitive-AI Framework 
 
 ## What is This?
 
@@ -168,7 +168,17 @@ v4 is a **redesign** (not a port). v3 components (GRN, Genome, Epigenome) will i
 MIT
 
 ---
+## Citation
 
+If you use this project in your research, please cite it.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21496227.svg)](https://doi.org/10.5281/zenodo.21496227)
+
+DOI: **10.5281/zenodo.21496227**
+
+https://doi.org/10.5281/zenodo.21496227
+
+---
 ## Contact
 
 **Email:** quoctuan21112009@gmail.com  

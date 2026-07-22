@@ -1,0 +1,33 @@
+# BioCognitive-AI Framework v4: Requirements
+
+## Core Dependencies
+
+python>=3.10
+
+## Development
+
+flake8>=4.0.0
+black>=22.0.0
+isort>=5.10.0
+mypy>=0.950
+
+## Testing
+
+pytest>=7.0.0
+pytest-cov>=3.0.0
+
+## Optional: Integration with v3
+
+# (Future) Integration requirements will be added when Phase 3 begins
+# For now, v4 is standalone
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+
+# Development
+pip install -r requirements-dev.txt
+```
+
+*Last updated: 2026-07-22*
